@@ -1,0 +1,37 @@
+## Youtube Series:
+https://www.youtube.com/watch?v=kNXDHjIkP_0&list=PLKWUX7aMnlEJzRvCXnwFEdk_WJDNjMDOo
+
+## Web Link:
+https://sbcode.net/python/
+
+
+## Topics:
+
+* Creational
+Factory
+Abstract Factory
+Builder
+Prototype
+Singleton
+
+* Structural
+Decorator
+Adapter
+Facade
+Bridge
+Composite
+Flyweight
+Proxy
+
+* Behavioral
+Command
+Chain of Responsibility
+Observer Pattern
+Interpreter
+Iterator
+Mediator
+Memento
+State
+Strategy
+Template
+Visitor
